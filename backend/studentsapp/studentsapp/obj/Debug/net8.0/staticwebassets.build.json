@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EUkyxw31HfhUhrGaAffm0o1jXyDoPHBxLyf7zjfuWvI=",
+  "Source": "studentsapp",
+  "BasePath": "_content/studentsapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
